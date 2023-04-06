@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/elainehou29/Documents/anaconda3/bin/python",
+
+    "python.analysis.extraPaths":[
+        "./src", 
+        "./modules"
+    ]
+}
