@@ -17,7 +17,7 @@ Install
 
 Install from pip with:
 
-	pip install git+https://github.com/robolyst/streetview
+	pip install git+https://github.com/hhe1ibeb/streetview
 
 Quick start
 ------------
